@@ -1,12 +1,5 @@
-## Hi there 👋
+## Salut ! 👋
 
-<!--
+Dans cette organisation, vous retrouverez certains de mes projets réalisés pendant ma scolarité. Il n'y a bien sûr pas tous les projets effectués, seulement certains qui sont les plus pertinents. La qualité du code varie entre chaque projet, merci de garder en tête que ces projets ont pour objectif de nous apprendre à coder proprement, ils ne sont donc pas forcément parfaits.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Vous pouvez trouver plus d'informations sur la réalisation des projets sur [mon site web](https://sunnathan.fr/) 🌐.
